@@ -3,7 +3,7 @@
 
 <p> 🔭 I’m currently working on Smarket Solutions</p>
 <p> 🌱 I’m currently learning ReactJs and Vue.js</p>
-<p> ⚡ Fun fact I started to like technology creating online rpg server when I was 12 years old</p>
+<p> ⚡ Fun fact I started to like technology creating rpg server when I was 12 years old</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
