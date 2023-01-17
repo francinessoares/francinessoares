@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francine</h1>
 <h3 align="center">❤️ I like to always be learning about new technologies. ❤️</h3>
 
-<p> 🔭 I’m currently working on Smarket Solutions</p>
-<p> 🌱 I’m currently learning ReactJs and Vue.js</p>
+<p> 🌱 I’m currently learning ReactJs and Angular</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
